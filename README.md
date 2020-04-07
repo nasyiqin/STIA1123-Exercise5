@@ -1,4 +1,4 @@
-# Task 1 
+## Task 1 
 
 ##### 1.	What is the name to be given to this file?
 
@@ -8,9 +8,9 @@
 
     File can be run but no output since there's no main method. 
 
-# Task 2
+## Task 2
 
-##### 2. Output 
+##### Output 
 
 ![alt text][1]
 
@@ -38,4 +38,10 @@
 
     setHeight(double len), setBase(double b), set(double len, double b)
 
-# Task 3 
+## Task 3 
+
+##### Output
+
+![alt text][3]
+
+[3]: https://user-images.githubusercontent.com/55252513/78698863-9055ef80-7935-11ea-99ab-97a33a114c49.PNG
